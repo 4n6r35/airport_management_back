@@ -1,0 +1,55 @@
+{
+    "companies": [
+        {
+            "AVIANCA": {
+                "abr": "AV",
+                "fleet": [
+                    {
+                        "modelo": "Boeing 787-8",
+                        "cantidad": 25,
+                        "edad": 7.5,
+                        "capacidad": 252,
+                        "descripción": "Avión de fuselaje ancho de largo alcance, con capacidad para 252 pasajeros.",
+                        "rutas": "Cubre vuelos internacionales de largo alcance, principalmente a destinos en Estados Unidos, Europa, Asia y América Latina."
+                    },
+                    {
+                        "modelo": "Boeing 787-9",
+                        "cantidad": 15,
+                        "edad": 5.5,
+                        "capacidad": 294
+                    },
+                    {
+                        "modelo": "Boeing 737-800",
+                        "cantidad": 40,
+                        "edad": 10.5,
+                        "capacidad": 189
+                    },
+                    {
+                        "modelo": "Boeing 737-900",
+                        "cantidad": 30,
+                        "edad": 9.5,
+                        "capacidad": 215
+                    },
+                    {
+                        "modelo": "Airbus A320-200",
+                        "cantidad": 20,
+                        "edad": 12.5,
+                        "capacidad": 156
+                    },
+                    {
+                        "modelo": "Airbus A320neo",
+                        "cantidad": 10,
+                        "edad": 2.5,
+                        "capacidad": 174
+                    },
+                    {
+                        "modelo": "Airbus A321neo",
+                        "cantidad": 5,
+                        "edad": 1.5,
+                        "capacidad": 220
+                    }
+                ]
+            }
+        }
+    ]
+}
